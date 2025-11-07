@@ -1,0 +1,501 @@
+movie_id,title,genre,release_year
+m_001,Shadow of the Giants,Horror,2022
+m_002,Attack of the Guardians,Comedy,2009
+m_003,First the Warriors,Horror,2008
+m_004,Return of the Stars,Horror,1996
+m_005,Attack of the Titans,Drama,2010
+m_006,Last the Kings,Sci-Fi,1980
+m_007,Legend of the Heroes,Horror,2023
+m_008,Legend of the Dragons,Comedy,2010
+m_009,Last the Stars,Drama,1991
+m_010,Fall of the Dragons,Comedy,1988
+m_011,Return of the Titans,Action,2014
+m_012,Fall of the Guardians,Sci-Fi,2017
+m_013,Legend of the Warriors,Horror,1984
+m_014,Fall of the Guardians,Comedy,1997
+m_015,Last the Giants,Action,1995
+m_016,Shadow of the Kings,Action,1988
+m_017,The Rise of the Kings,Comedy,1985
+m_018,Legend of the Heroes,Documentary,1990
+m_019,Legend of the Dragons,Drama,1988
+m_020,The Rise of the Dragons,Romance,2013
+m_021,Fall of the Kings,Documentary,2020
+m_022,Shadow of the Titans,Documentary,1997
+m_023,The Rise of the Giants,Documentary,2019
+m_024,First the Kings,Romance,2005
+m_025,The Rise of the Guardians,Documentary,1982
+m_026,Fall of the Titans,Documentary,2017
+m_027,Shadow of the Warriors,Drama,2015
+m_028,Last the Warriors,Comedy,2000
+m_029,Attack of the Titans,Horror,1995
+m_030,Last the Stars,Horror,2019
+m_031,Attack of the Warriors,Sci-Fi,1999
+m_032,First the Warriors,Action,2015
+m_033,The Rise of the Titans,Action,2016
+m_034,Legend of the Giants,Documentary,2005
+m_035,The Rise of the Kings,Horror,1982
+m_036,Fall of the Giants,Romance,2008
+m_037,Last the Guardians,Horror,2021
+m_038,Return of the Warriors,Action,2019
+m_039,The Rise of the Giants,Romance,2020
+m_040,First the Stars,Horror,2010
+m_041,Attack of the Guardians,Romance,1991
+m_042,Attack of the Giants,Comedy,2005
+m_043,Shadow of the Stars,Comedy,2009
+m_044,Legend of the Kings,Sci-Fi,2004
+m_045,First the Giants,Comedy,1986
+m_046,Return of the Heroes,Comedy,2003
+m_047,Shadow of the Dragons,Action,2013
+m_048,Fall of the Warriors,Comedy,2017
+m_049,First the Giants,Romance,2003
+m_050,Legend of the Heroes,Drama,1986
+m_051,The Rise of the Heroes,Horror,2004
+m_052,Legend of the Kings,Documentary,2020
+m_053,Last the Guardians,Romance,1981
+m_054,Legend of the Titans,Romance,1989
+m_055,The Rise of the Giants,Horror,1998
+m_056,Attack of the Guardians,Documentary,1982
+m_057,The Rise of the Warriors,Documentary,2005
+m_058,Legend of the Titans,Sci-Fi,2021
+m_059,Return of the Giants,Comedy,1982
+m_060,First the Dragons,Sci-Fi,2004
+m_061,First the Stars,Sci-Fi,2007
+m_062,Last the Kings,Drama,2003
+m_063,Last the Titans,Horror,2002
+m_064,Fall of the Guardians,Horror,1987
+m_065,Last the Stars,Horror,1994
+m_066,Fall of the Heroes,Comedy,1993
+m_067,Attack of the Guardians,Comedy,1989
+m_068,First the Stars,Romance,1993
+m_069,Legend of the Warriors,Horror,2002
+m_070,Shadow of the Warriors,Horror,2007
+m_071,First the Giants,Romance,1993
+m_072,Return of the Heroes,Comedy,1997
+m_073,Return of the Kings,Romance,2002
+m_074,Attack of the Giants,Romance,1993
+m_075,The Rise of the Titans,Drama,2004
+m_076,Shadow of the Stars,Romance,1983
+m_077,Shadow of the Guardians,Action,2007
+m_078,Last the Titans,Comedy,1980
+m_079,Fall of the Guardians,Horror,1980
+m_080,Fall of the Giants,Romance,1981
+m_081,Last the Titans,Comedy,1992
+m_082,First the Heroes,Action,2015
+m_083,Attack of the Titans,Action,1987
+m_084,Attack of the Titans,Drama,1998
+m_085,Shadow of the Heroes,Romance,1989
+m_086,Legend of the Kings,Romance,2001
+m_087,The Rise of the Giants,Sci-Fi,1980
+m_088,Last the Guardians,Documentary,2005
+m_089,First the Guardians,Drama,2009
+m_090,Shadow of the Guardians,Sci-Fi,2017
+m_091,The Rise of the Giants,Romance,2021
+m_092,Fall of the Heroes,Horror,2012
+m_093,The Rise of the Warriors,Horror,2014
+m_094,First the Kings,Romance,2009
+m_095,Last the Warriors,Action,1997
+m_096,First the Warriors,Comedy,2017
+m_097,The Rise of the Kings,Action,1991
+m_098,Legend of the Kings,Drama,2013
+m_099,Fall of the Giants,Sci-Fi,2015
+m_100,Return of the Guardians,Romance,2019
+m_101,First the Heroes,Sci-Fi,1990
+m_102,The Rise of the Dragons,Comedy,2014
+m_103,Attack of the Guardians,Documentary,1998
+m_104,Return of the Warriors,Romance,2006
+m_105,Legend of the Kings,Documentary,1986
+m_106,Shadow of the Warriors,Sci-Fi,1989
+m_107,Fall of the Warriors,Romance,2015
+m_108,The Rise of the Heroes,Drama,2010
+m_109,Attack of the Dragons,Drama,2021
+m_110,Legend of the Giants,Comedy,2023
+m_111,Legend of the Dragons,Sci-Fi,1990
+m_112,Shadow of the Kings,Romance,2018
+m_113,Return of the Heroes,Comedy,2017
+m_114,Legend of the Warriors,Romance,2001
+m_115,Fall of the Titans,Sci-Fi,2021
+m_116,Shadow of the Stars,Comedy,1981
+m_117,First the Heroes,Romance,1999
+m_118,Shadow of the Guardians,Documentary,2000
+m_119,Legend of the Dragons,Drama,1986
+m_120,Legend of the Titans,Horror,2016
+m_121,Legend of the Titans,Horror,2002
+m_122,Fall of the Guardians,Horror,1999
+m_123,The Rise of the Titans,Sci-Fi,2007
+m_124,The Rise of the Heroes,Drama,1982
+m_125,Legend of the Warriors,Romance,1990
+m_126,Shadow of the Giants,Documentary,2003
+m_127,First the Titans,Romance,2000
+m_128,The Rise of the Kings,Sci-Fi,1988
+m_129,Fall of the Titans,Horror,1985
+m_130,The Rise of the Heroes,Drama,1992
+m_131,Fall of the Kings,Horror,1984
+m_132,Last the Warriors,Romance,2006
+m_133,First the Heroes,Comedy,2006
+m_134,Attack of the Heroes,Sci-Fi,2014
+m_135,Legend of the Giants,Romance,2011
+m_136,Last the Warriors,Action,1982
+m_137,First the Stars,Drama,2005
+m_138,Return of the Stars,Romance,1982
+m_139,Legend of the Guardians,Comedy,1988
+m_140,Fall of the Dragons,Horror,2007
+m_141,Return of the Titans,Sci-Fi,2022
+m_142,Legend of the Guardians,Comedy,1987
+m_143,Fall of the Kings,Documentary,1994
+m_144,Attack of the Dragons,Comedy,2000
+m_145,Shadow of the Heroes,Horror,2014
+m_146,First the Titans,Documentary,1990
+m_147,Legend of the Titans,Romance,1992
+m_148,Last the Titans,Documentary,1988
+m_149,Return of the Guardians,Sci-Fi,1982
+m_150,Return of the Warriors,Action,2011
+m_151,Return of the Dragons,Action,1993
+m_152,The Rise of the Guardians,Documentary,2018
+m_153,Legend of the Dragons,Romance,2002
+m_154,Last the Titans,Documentary,1986
+m_155,Legend of the Giants,Comedy,2000
+m_156,First the Titans,Drama,2020
+m_157,First the Dragons,Sci-Fi,1982
+m_158,Last the Titans,Horror,2005
+m_159,Legend of the Warriors,Action,2021
+m_160,Return of the Titans,Romance,1996
+m_161,Shadow of the Heroes,Comedy,1990
+m_162,Legend of the Guardians,Romance,1981
+m_163,Last the Heroes,Romance,1986
+m_164,Last the Warriors,Horror,2008
+m_165,Return of the Dragons,Comedy,1996
+m_166,First the Titans,Sci-Fi,1988
+m_167,Fall of the Heroes,Documentary,2006
+m_168,Legend of the Titans,Comedy,2012
+m_169,First the Guardians,Drama,2000
+m_170,First the Guardians,Comedy,2018
+m_171,Last the Giants,Romance,2002
+m_172,Last the Titans,Action,2019
+m_173,Shadow of the Stars,Comedy,2010
+m_174,Last the Stars,Sci-Fi,1980
+m_175,Attack of the Dragons,Action,1999
+m_176,Last the Titans,Sci-Fi,2012
+m_177,Legend of the Dragons,Sci-Fi,2017
+m_178,Last the Stars,Sci-Fi,2000
+m_179,Shadow of the Titans,Horror,1981
+m_180,Shadow of the Guardians,Romance,1995
+m_181,The Rise of the Heroes,Comedy,2020
+m_182,Return of the Dragons,Documentary,2011
+m_183,The Rise of the Kings,Documentary,1990
+m_184,Attack of the Stars,Drama,2010
+m_185,Shadow of the Warriors,Comedy,1984
+m_186,Legend of the Warriors,Horror,1986
+m_187,The Rise of the Warriors,Action,1983
+m_188,Legend of the Giants,Drama,1989
+m_189,Legend of the Guardians,Documentary,2011
+m_190,Last the Warriors,Comedy,1983
+m_191,Shadow of the Guardians,Comedy,1987
+m_192,Legend of the Guardians,Documentary,2014
+m_193,The Rise of the Guardians,Romance,2009
+m_194,Shadow of the Heroes,Action,2003
+m_195,First the Stars,Horror,2009
+m_196,Legend of the Dragons,Sci-Fi,1989
+m_197,Attack of the Kings,Romance,2000
+m_198,Shadow of the Warriors,Documentary,2015
+m_199,First the Giants,Sci-Fi,2017
+m_200,Fall of the Heroes,Sci-Fi,2020
+m_201,Legend of the Guardians,Documentary,2006
+m_202,First the Guardians,Documentary,2005
+m_203,Return of the Titans,Action,1993
+m_204,First the Stars,Sci-Fi,1996
+m_205,Fall of the Heroes,Sci-Fi,2013
+m_206,Fall of the Guardians,Action,1998
+m_207,Last the Guardians,Documentary,1983
+m_208,Shadow of the Dragons,Documentary,2010
+m_209,The Rise of the Kings,Sci-Fi,2009
+m_210,Fall of the Titans,Sci-Fi,2018
+m_211,The Rise of the Heroes,Sci-Fi,2006
+m_212,Attack of the Giants,Sci-Fi,2020
+m_213,The Rise of the Warriors,Documentary,1983
+m_214,Attack of the Dragons,Sci-Fi,2005
+m_215,The Rise of the Giants,Sci-Fi,2003
+m_216,The Rise of the Dragons,Action,2021
+m_217,Fall of the Kings,Sci-Fi,2007
+m_218,Last the Heroes,Drama,2001
+m_219,Attack of the Stars,Comedy,1993
+m_220,Legend of the Stars,Comedy,1980
+m_221,Legend of the Stars,Action,1990
+m_222,Last the Stars,Horror,1990
+m_223,Attack of the Heroes,Drama,1990
+m_224,First the Giants,Romance,1999
+m_225,Shadow of the Titans,Comedy,2013
+m_226,Fall of the Stars,Horror,2023
+m_227,Return of the Warriors,Sci-Fi,1988
+m_228,Fall of the Stars,Drama,2020
+m_229,Last the Heroes,Romance,2001
+m_230,Fall of the Giants,Action,2018
+m_231,Shadow of the Stars,Romance,2003
+m_232,Fall of the Dragons,Documentary,2000
+m_233,Attack of the Warriors,Documentary,1992
+m_234,First the Titans,Documentary,2001
+m_235,First the Stars,Romance,2018
+m_236,The Rise of the Kings,Action,2017
+m_237,Return of the Heroes,Documentary,2010
+m_238,Return of the Kings,Romance,1992
+m_239,Attack of the Giants,Horror,1982
+m_240,Last the Guardians,Horror,2010
+m_241,First the Giants,Horror,2012
+m_242,Fall of the Kings,Romance,1991
+m_243,Last the Warriors,Action,2006
+m_244,Last the Warriors,Sci-Fi,1981
+m_245,First the Titans,Romance,1980
+m_246,Fall of the Heroes,Sci-Fi,2022
+m_247,Fall of the Titans,Sci-Fi,2002
+m_248,Shadow of the Giants,Sci-Fi,2005
+m_249,The Rise of the Titans,Romance,2018
+m_250,Legend of the Kings,Action,2006
+m_251,Shadow of the Dragons,Action,1989
+m_252,Legend of the Heroes,Action,1995
+m_253,Last the Guardians,Documentary,2023
+m_254,Fall of the Warriors,Drama,2014
+m_255,Shadow of the Guardians,Drama,2006
+m_256,Fall of the Titans,Action,1983
+m_257,First the Titans,Action,2018
+m_258,First the Stars,Romance,1992
+m_259,Attack of the Heroes,Sci-Fi,2001
+m_260,First the Stars,Romance,1999
+m_261,Fall of the Titans,Sci-Fi,2004
+m_262,Shadow of the Giants,Horror,2000
+m_263,Attack of the Giants,Romance,2019
+m_264,The Rise of the Dragons,Documentary,1983
+m_265,First the Guardians,Documentary,1999
+m_266,First the Kings,Romance,2022
+m_267,Return of the Stars,Drama,2020
+m_268,Last the Kings,Horror,1987
+m_269,Return of the Dragons,Documentary,1993
+m_270,Attack of the Stars,Action,1991
+m_271,Fall of the Heroes,Romance,2015
+m_272,Last the Giants,Action,1996
+m_273,Return of the Giants,Sci-Fi,1985
+m_274,Attack of the Warriors,Sci-Fi,2017
+m_275,Attack of the Dragons,Documentary,2010
+m_276,The Rise of the Stars,Comedy,1981
+m_277,Return of the Kings,Comedy,1988
+m_278,Fall of the Titans,Horror,2021
+m_279,Attack of the Guardians,Documentary,1982
+m_280,The Rise of the Titans,Romance,1980
+m_281,Return of the Dragons,Sci-Fi,1980
+m_282,Last the Titans,Sci-Fi,2021
+m_283,Last the Kings,Sci-Fi,1986
+m_284,Shadow of the Heroes,Documentary,2012
+m_285,Fall of the Stars,Comedy,2001
+m_286,Attack of the Warriors,Sci-Fi,2002
+m_287,The Rise of the Guardians,Action,2011
+m_288,Legend of the Warriors,Horror,2020
+m_289,Attack of the Giants,Sci-Fi,1991
+m_290,Shadow of the Dragons,Drama,2002
+m_291,Shadow of the Titans,Romance,2006
+m_292,Legend of the Titans,Documentary,1987
+m_293,Shadow of the Giants,Romance,1981
+m_294,Last the Dragons,Sci-Fi,2006
+m_295,Last the Dragons,Action,1985
+m_296,The Rise of the Dragons,Documentary,2001
+m_297,Return of the Heroes,Romance,2017
+m_298,Fall of the Guardians,Romance,1986
+m_299,Attack of the Giants,Romance,2023
+m_300,Legend of the Kings,Comedy,1984
+m_301,Return of the Titans,Horror,2005
+m_302,First the Kings,Documentary,2016
+m_303,Shadow of the Stars,Documentary,1991
+m_304,Return of the Giants,Documentary,1991
+m_305,The Rise of the Guardians,Sci-Fi,1984
+m_306,Last the Dragons,Horror,2003
+m_307,Last the Heroes,Drama,1999
+m_308,Fall of the Heroes,Romance,2017
+m_309,Attack of the Kings,Sci-Fi,1997
+m_310,First the Kings,Action,1987
+m_311,The Rise of the Dragons,Sci-Fi,2016
+m_312,Return of the Giants,Documentary,2002
+m_313,Last the Titans,Action,1996
+m_314,Legend of the Giants,Horror,1990
+m_315,Fall of the Dragons,Romance,2019
+m_316,Shadow of the Titans,Horror,2022
+m_317,Return of the Giants,Comedy,2010
+m_318,Fall of the Giants,Romance,1980
+m_319,Shadow of the Stars,Documentary,2015
+m_320,The Rise of the Kings,Horror,1992
+m_321,Last the Dragons,Sci-Fi,2001
+m_322,Last the Warriors,Horror,2003
+m_323,Legend of the Giants,Romance,2012
+m_324,Last the Stars,Comedy,2002
+m_325,Fall of the Titans,Documentary,2008
+m_326,First the Guardians,Comedy,1995
+m_327,Legend of the Dragons,Comedy,2020
+m_328,Fall of the Titans,Comedy,1980
+m_329,Attack of the Warriors,Action,1994
+m_330,The Rise of the Giants,Romance,2020
+m_331,The Rise of the Heroes,Documentary,1992
+m_332,Attack of the Dragons,Horror,1998
+m_333,First the Heroes,Horror,1994
+m_334,Fall of the Giants,Action,1980
+m_335,Return of the Heroes,Documentary,1981
+m_336,Shadow of the Giants,Sci-Fi,1983
+m_337,The Rise of the Stars,Drama,2020
+m_338,Return of the Stars,Drama,1998
+m_339,Return of the Stars,Drama,2015
+m_340,Legend of the Heroes,Documentary,2003
+m_341,Shadow of the Titans,Horror,2011
+m_342,The Rise of the Guardians,Drama,2017
+m_343,Fall of the Dragons,Sci-Fi,2006
+m_344,The Rise of the Titans,Drama,1999
+m_345,Return of the Warriors,Horror,1997
+m_346,Last the Giants,Romance,1995
+m_347,First the Stars,Drama,1996
+m_348,First the Stars,Comedy,2017
+m_349,Legend of the Titans,Sci-Fi,1987
+m_350,The Rise of the Warriors,Comedy,2003
+m_351,First the Warriors,Comedy,2006
+m_352,Legend of the Warriors,Horror,1995
+m_353,Last the Titans,Comedy,2011
+m_354,Legend of the Warriors,Sci-Fi,2000
+m_355,First the Warriors,Action,2002
+m_356,Return of the Kings,Sci-Fi,1984
+m_357,The Rise of the Heroes,Horror,2014
+m_358,Return of the Guardians,Documentary,2008
+m_359,Legend of the Giants,Action,2012
+m_360,Attack of the Warriors,Romance,2008
+m_361,Shadow of the Titans,Romance,2022
+m_362,Last the Titans,Comedy,2003
+m_363,Attack of the Giants,Drama,1984
+m_364,Last the Heroes,Horror,1989
+m_365,The Rise of the Dragons,Documentary,2014
+m_366,Fall of the Titans,Documentary,1992
+m_367,Fall of the Heroes,Action,2021
+m_368,Fall of the Warriors,Comedy,1992
+m_369,Shadow of the Giants,Drama,1990
+m_370,Shadow of the Guardians,Sci-Fi,2002
+m_371,Attack of the Titans,Romance,1990
+m_372,The Rise of the Warriors,Action,1996
+m_373,Shadow of the Stars,Comedy,2019
+m_374,Shadow of the Heroes,Sci-Fi,2016
+m_375,Fall of the Giants,Romance,2008
+m_376,Fall of the Warriors,Romance,2005
+m_377,Attack of the Guardians,Romance,2001
+m_378,First the Stars,Romance,2023
+m_379,First the Dragons,Horror,1987
+m_380,Fall of the Warriors,Sci-Fi,1986
+m_381,First the Titans,Horror,2023
+m_382,Return of the Stars,Comedy,2021
+m_383,First the Heroes,Documentary,2016
+m_384,Fall of the Titans,Sci-Fi,1993
+m_385,Return of the Kings,Horror,2021
+m_386,Return of the Warriors,Horror,1994
+m_387,The Rise of the Titans,Sci-Fi,1994
+m_388,First the Heroes,Comedy,2006
+m_389,Last the Warriors,Drama,2006
+m_390,The Rise of the Kings,Documentary,1998
+m_391,The Rise of the Guardians,Drama,2001
+m_392,Attack of the Warriors,Sci-Fi,1984
+m_393,Legend of the Heroes,Action,2003
+m_394,Fall of the Dragons,Action,2021
+m_395,The Rise of the Warriors,Comedy,2019
+m_396,Shadow of the Guardians,Drama,1999
+m_397,Return of the Giants,Documentary,1982
+m_398,First the Warriors,Romance,2018
+m_399,Last the Kings,Romance,2015
+m_400,Fall of the Heroes,Documentary,2011
+m_401,First the Giants,Action,1991
+m_402,Attack of the Stars,Comedy,1993
+m_403,The Rise of the Dragons,Drama,2019
+m_404,Return of the Guardians,Comedy,1990
+m_405,Last the Warriors,Romance,1996
+m_406,First the Guardians,Romance,1996
+m_407,Attack of the Dragons,Action,2010
+m_408,Legend of the Titans,Action,2019
+m_409,Attack of the Titans,Comedy,2006
+m_410,Shadow of the Dragons,Romance,2021
+m_411,First the Heroes,Sci-Fi,1983
+m_412,Last the Heroes,Comedy,1997
+m_413,Shadow of the Stars,Romance,2000
+m_414,Fall of the Guardians,Action,1997
+m_415,First the Titans,Action,1985
+m_416,Fall of the Giants,Horror,2005
+m_417,First the Kings,Action,2016
+m_418,First the Titans,Comedy,2023
+m_419,Legend of the Guardians,Romance,1989
+m_420,Attack of the Warriors,Horror,2009
+m_421,Attack of the Stars,Sci-Fi,1985
+m_422,Last the Stars,Documentary,1986
+m_423,Shadow of the Titans,Drama,1997
+m_424,Legend of the Dragons,Sci-Fi,2013
+m_425,Attack of the Dragons,Documentary,1982
+m_426,Fall of the Kings,Action,2002
+m_427,Legend of the Dragons,Comedy,1995
+m_428,Fall of the Giants,Comedy,1982
+m_429,Attack of the Dragons,Comedy,1989
+m_430,Shadow of the Warriors,Drama,1981
+m_431,Shadow of the Heroes,Documentary,1981
+m_432,The Rise of the Guardians,Action,1996
+m_433,Legend of the Kings,Sci-Fi,1995
+m_434,Return of the Stars,Horror,2008
+m_435,Shadow of the Guardians,Romance,2011
+m_436,Shadow of the Heroes,Comedy,1994
+m_437,Shadow of the Titans,Horror,1989
+m_438,Legend of the Heroes,Sci-Fi,2014
+m_439,Attack of the Stars,Sci-Fi,2006
+m_440,Last the Giants,Sci-Fi,2018
+m_441,Fall of the Guardians,Drama,2020
+m_442,Legend of the Titans,Romance,2016
+m_443,Shadow of the Kings,Horror,1999
+m_444,Last the Titans,Action,2023
+m_445,Return of the Titans,Horror,2003
+m_446,First the Guardians,Comedy,2018
+m_447,Fall of the Warriors,Romance,1997
+m_448,Last the Dragons,Action,2015
+m_449,Legend of the Heroes,Drama,2002
+m_450,Last the Heroes,Sci-Fi,1981
+m_451,Return of the Titans,Sci-Fi,2001
+m_452,Last the Guardians,Action,2004
+m_453,Fall of the Guardians,Horror,1997
+m_454,Legend of the Guardians,Horror,1998
+m_455,First the Heroes,Sci-Fi,2019
+m_456,Fall of the Heroes,Comedy,2017
+m_457,Last the Guardians,Drama,1993
+m_458,Legend of the Stars,Documentary,1996
+m_459,Return of the Warriors,Romance,1990
+m_460,Shadow of the Heroes,Romance,2023
+m_461,Legend of the Warriors,Documentary,2018
+m_462,Fall of the Guardians,Action,1987
+m_463,Return of the Stars,Horror,2002
+m_464,The Rise of the Warriors,Documentary,2014
+m_465,Last the Kings,Comedy,1983
+m_466,First the Guardians,Sci-Fi,2011
+m_467,Last the Giants,Action,1987
+m_468,Legend of the Kings,Documentary,2023
+m_469,Attack of the Dragons,Action,1985
+m_470,The Rise of the Titans,Action,1984
+m_471,Legend of the Guardians,Sci-Fi,1983
+m_472,Shadow of the Guardians,Documentary,2000
+m_473,Fall of the Guardians,Action,2010
+m_474,The Rise of the Titans,Drama,2015
+m_475,The Rise of the Kings,Drama,1990
+m_476,Legend of the Giants,Drama,2008
+m_477,First the Heroes,Comedy,2013
+m_478,Return of the Titans,Documentary,2020
+m_479,Fall of the Stars,Action,2004
+m_480,Legend of the Giants,Action,1984
+m_481,Attack of the Giants,Horror,2012
+m_482,First the Dragons,Documentary,1991
+m_483,Legend of the Warriors,Comedy,1980
+m_484,Legend of the Guardians,Comedy,2020
+m_485,First the Warriors,Action,1994
+m_486,First the Titans,Comedy,1998
+m_487,First the Stars,Sci-Fi,1981
+m_488,Last the Guardians,Sci-Fi,1985
+m_489,Last the Giants,Action,1982
+m_490,The Rise of the Giants,Drama,1984
+m_491,Last the Kings,Action,2002
+m_492,Attack of the Kings,Documentary,2019
+m_493,First the Dragons,Horror,1992
+m_494,Return of the Titans,Horror,2022
+m_495,Legend of the Heroes,Horror,1980
+m_496,Legend of the Heroes,Horror,2012
+m_497,First the Kings,Sci-Fi,1987
+m_498,Return of the Kings,Comedy,2013
+m_499,Last the Titans,Action,1990
+m_500,Legend of the Giants,Sci-Fi,2001
