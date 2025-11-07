@@ -285,3 +285,10 @@ exit
 docker compose down
 ```
 (Lưu ý: Nếu bạn muốn tạm dừng mà giữ lại dữ liệu, hãy dùng docker compose stop).
+
+## 📚 Tài liệu tham khảo
+
+Dự án này được xây dựng và học hỏi từ các nguồn tài liệu tuyệt vời sau:
+
+* Hive with Docker: A Step-by-Step Guide to Managing Data[https://kira07.medium.com/hive-with-docker-a-step-by-step-guide-to-managing-data-d8a4683a2611]
+* Link GitHub tham khảo[https://github.com/Vivekpawar07/Docker-hive]
