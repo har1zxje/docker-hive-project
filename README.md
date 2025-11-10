@@ -39,11 +39,11 @@ Dự án này sử dụng Docker để nhanh chóng khởi động một cụm m
 
 1.  Copy tệp `demon_slayer.csv` (có sẵn) vào container `namenode`:
     ```powershell
-    docker cp demon_slayer.csv docker-hive-namenode-1:/tmp
+    docker cp demon_slayer.csv docker-hive-project-namenode-1:/tmp
     ```
 2.  "Nhảy" vào bên trong container `namenode`:
     ```powershell
-    docker exec -it docker-hive-namenode-1 bash
+    docker exec -it docker-hive-project-namenode-1 bash
     ```
 3.  (Bên trong `namenode`) Đưa tệp từ `/tmp` của container lên `/tmp` của HDFS:
     ```bash
@@ -58,7 +58,7 @@ Dự án này sử dụng Docker để nhanh chóng khởi động một cụm m
 
 1.  (Quay lại PowerShell) "Nhảy" vào container `hive-server`:
     ```powershell
-    docker exec -it docker-hive-hive-server-1 bash
+    docker exec -it docker-hive-project-hive-server-1 bash
     ```
 2.  (Bên trong `hive-server`) Kết nối Hive bằng Beeline:
     ```bash
@@ -123,13 +123,13 @@ Phần này chúng ta sẽ tạo và phân tích một cơ sở dữ liệu mô 
     ```
 2.  Copy 3 bộ dữ liệu vào `namenode`:
     ```powershell
-    docker cp dim_users.csv docker-hive-namenode-1:/tmp
-    docker cp dim_movies.csv docker-hive-namenode-1:/tmp
-    docker cp fact_stream_views docker-hive-namenode-1:/tmp
+    docker cp dim_users.csv docker-hive-project-namenode-1:/tmp
+    docker cp dim_movies.csv docker-hive-project-namenode-1:/tmp
+    docker cp fact_stream_views docker-hive-project-namenode-1:/tmp
     ```
 3.  "Nhảy" vào `namenode`:
     ```powershell
-    docker exec -it docker-hive-namenode-1 bash
+    docker exec -it docker-hive-project-namenode-1 bash
     ```
 4.  (Bên trong `namenode`) Đưa 3 bộ dữ liệu lên thư mục `/user` của HDFS:
     ```bash
@@ -146,7 +146,7 @@ Phần này chúng ta sẽ tạo và phân tích một cơ sở dữ liệu mô 
 
 1.  (Quay lại PowerShell) "Nhảy" vào `hive-server`:
     ```powershell
-    docker exec -it docker-hive-hive-server-1 bash
+    docker exec -it docker-hive-project-hive-server-1 bash
     ```
 2.  (Bên trong `hive-server`) Kết nối Beeline:
     ```bash
